@@ -10,7 +10,6 @@
 <h3 align="center">A passionate developer from France / UK</h3>
 <br>
 <br> 
-<br>            
 
 - 🔭 I’m currently working at [Weenove - as AI Project Manager]([https://www.weenove.fr/])
 
